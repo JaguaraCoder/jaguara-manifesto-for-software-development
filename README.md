@@ -51,7 +51,9 @@ The Jaguara coder has a peculiar lifestyle that could be summarized as:
 - Spending time on resources that stakeholders don't care about
 
 ### Quality code doesn’t matter
-What does quality code brings to your health and actual life? More stress, more discussions with collegues to find the perfect code, and all that for what? Customers, Project Managers and everyone else than you does not care about that, with a chance to get complained for delivering or delaying the work.
+Maybe the first and most important topic on a Jaguara Coder environemnt.
+
+What does quality code brings to a Jaguara's health and actual life? More stress, more discussions with collegues to find the perfect code, and all that for what? Customers, Project Managers and everyone else than you does not care about that, with a chance to get complained for delivering or delaying the work.
 In these cases, applying the Jaguara Standards, do the job as confortable as you want, delivery in time, accept comments on git, fix when the criticals come.
 
 ### SPPaaP - Slider de Powerpoint As a Product
