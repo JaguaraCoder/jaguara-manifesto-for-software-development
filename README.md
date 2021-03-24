@@ -1,5 +1,5 @@
 # jaguara-code-manifesto to Jaguara Code Standards (JCS)
-Jaguara Code Manifesto and how to not get frustated as a Software Developer
+Jaguara Code Manifesto and how to get (or not) frustated as a Software Developer
 
 ## Main Purpose
 The Jaguara Code Manifesto is an expressive document on topics that usually gets software developers and engineers frustated, or with managers decisions or with burocratic processes or some smart-ass collegue that believes that perfection is the deliverable value of a product, sometimes we just need an action and a step-ahead without thinking too much to get things done.
