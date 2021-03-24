@@ -1,4 +1,4 @@
-# jaguara-code-manifesto
+# jaguara-code-manifesto to Jaguara Code Standards (JCS)
 Jaguara Code Manifesto and how to not get frustated as a Software Developer
 
 ## Main Purpose
@@ -33,3 +33,6 @@ The Jaguara Code Manifesto is an expressive document on topics that usually gets
 - como conseguir investimento, contratar manager e nenhum peao pra fazer o servico
 - Provando seus conhecimentos Senior em uma entrevista de emprego com teoria de SOLID principles e um code challenge de funcao recursiva
 - Gastando tempo em recursos que os stakeholders não se importam
+
+### Quality code doesn’t matter
+What does quality code brings to your health and actual life? More stress, more discussions with collegues to find the perfect code, and all that for what? Customers, Project Managers and everyone else than you does not care about that, with a chance to get complained for delivering or delaying the work. Please do a favor to yourself and do the job as confortable as you want, delivery in time, accept comments on git, fix when the criticals come.
