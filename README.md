@@ -17,7 +17,7 @@ The Jaguara coder has a peculiar lifestyle that could be summarized as:
 - Usually involved in team parties and events
 - Doesn't know what is delivery of value
 
-## Topics (sarcastically) self-explained
+## Topics that surrounds a Jaguara's environment
 - [Quality code doesn’t matter](#quality-code-doesnt-matter)
 - [SPPaaP - Slider de Powerpoint As a Product](#quality-code-doesnt-matter)
 - Golive - Random release dates created by someone that doesn't know nothing about Software Development
