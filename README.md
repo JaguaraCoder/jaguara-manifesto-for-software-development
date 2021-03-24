@@ -9,6 +9,16 @@ A jaguara is an expression to define someone that does or something that is conc
 
 Could be summarized as a combination of laziness and smartness(?) in a effort to avoid effort.
 
+#### Definition
+
+According brazilian informal dictionary Jaguara means:
+Dog without race;
+Hound with no value;
+Inoffensive dog that doesn't threaten anyone
+"Guapeca" dog
+
+source: https://www.dicionarioinformal.com.br/diferenca-entre/jaguara/cachorro/
+
 #### Lifestyle
 The Jaguara has a peculiar lifestyle that could be summarized as:
 - Prefers meetings than work
