@@ -11,7 +11,7 @@ Could be summarized as a combination of laziness and smartness(?) in a effort to
 
 ## Topics (sarcastically) self-explained
 - [Quality code doesn’t matter](#quality-code-doesnt-matter)
-- SPPaaP - Slider de Powerpoint As a Product
+- [SPPaaP - Slider de Powerpoint As a Product](#quality-code-doesnt-matter)
 - Golive - Random release dates created by someone that doesn't know nothing about Software Development
          * other phrases that a persons who creates the golive might say:
            "It's just a button"
