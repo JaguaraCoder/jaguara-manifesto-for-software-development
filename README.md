@@ -61,3 +61,8 @@ In these cases, applying the Jaguara Standards, do the job as confortable as you
 This is a Jaguara concept used on many comapnies where managers (or sometimes even the company) may think that presenting an idea on a metting with a fancy presentation is already a product, of course the presentations must be pushed every X days to remember that it is a product even if nobody does nothing. In summary, company thinks that things are going, Managers think they are doing something or the company, and the team waits to some decision to start to do something.
 
 Sometimes the company have many products as just presentation but in the end it is just a jaguara's technique to pretend that you are working on something.
+
+### Let's do what we do better - Meetings
+Meetings are a constant in the Jaguara's environment and it is desirable that meetings take most of the day. Meeting is a solution for everything that happens as for example:
+
+An issue on the software, Defining standards, Planning, Grooming, Pre-Grooming, Pre-planning, Summary of the sprint, Summary of the week, Summary of the month, Feedback to your team lead, Feedback for the company's manager, Alignment with the Product Owner, Asking a friend if he can help you in something very simple... and many more.  
