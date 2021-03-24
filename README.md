@@ -5,7 +5,7 @@ Jaguara Code Manifesto and how to not get frustated as a Software Developer
 The Jaguara Code Manifesto is an expressive document on topics that usually gets software developers and engineers frustated, or with managers decisions or with burocratic processes or some smart-ass collegue that believes that perfection is the deliverable value of a product, sometimes we just need an action and a step-ahead without thinking too much to get things done.
 
 ## The Jaguara Itself
-A jaguara is an expression to define someone or something that is conceived with minimum effort and usually without much planning nor thinking in the future people/products that may be affected by it.
+A jaguara is an expression to define someone that does or something that is conceived with minimum effort and usually without much planning nor thinking in the future people/products that may be affected by it.
 
 Could be summarized as a combination of laziness and smartness(?) in a effort to avoid effort.
 
