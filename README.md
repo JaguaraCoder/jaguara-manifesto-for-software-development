@@ -48,4 +48,5 @@ In these cases, applying the Jaguara Standards, do the job as confortable as you
 
 ### SPPaaP - Slider de Powerpoint As a Product
 This is a Jaguara concept used on many comapnies where managers (or sometimes even the company) may think that presenting an idea on a metting with a fancy presentation is already a product, of course the presentations must be pushed every X days to remember that it is a product even if nobody does nothing. In summary, company thinks that things are going, Managers think they are doing something or the company, and the team waits to some decision to start to do something.
-Sometimes the company have many products as just presentation but in the end it is just a 
+
+Sometimes the company have many products as just presentation but in the end it is just a jaguara's technique to pretend that you are working on something.
