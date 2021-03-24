@@ -25,24 +25,22 @@ Could be summarized as a combination of laziness and smartness(?) in a effort to
 - desalignment as agile technique
 - Let's do what we do better - meetings
 - Solving project delays and conflicts with team events
-- 
-- criando problemas pra impulsionar seu sucesso em futuras correcoes
-- como venci no exterior
-- melhor pronto do que perfeito
-- melhor pronto do que funcionando
-- como comprar um porsche programando apenas DUAS horas por dia de casa
-- como fazer reuniao e produzir
-- Agile até que chegue o deadline
-- como mostrar agilidade no stand-up
-- A fantástica fabrica de reunioes
-- Team events agilizando a entrega do produto
-- Como ser lento usando agile
-- palavras chaves para fazerem os PM's e stackholders babarem
-- como conseguir 10 milhoes em investimento, gastar tudo e entregar nada
-- como conseguir mais investimento depois de gastar tudo e nao entregar
-- como conseguir investimento, contratar manager e nenhum peao pra fazer o servico
-- Provando seus conhecimentos Senior em uma entrevista de emprego com teoria de SOLID principles e um code challenge de funcao recursiva
-- Gastando tempo em recursos que os stakeholders não se importam
+- Creating hidden problems to boost your success in future fixes 
+- Better done than perfect
+- Better done than working
+- Buy your own porsche coding only TWO hours a day, from home
+- Be on meetings and still be productive
+- Agile until the deadline is closer
+- Showing agile in stand-ups 
+- The fantastic meetings factory 
+- Team events speeding up product delivery 
+- How to be slow using agile
+- Buzz words to make PMs and stakeholders drool
+- How to get 10 million in investment, spend everything and deliver nothing
+- how to get more investment after spending everything and not delivering
+- how to get investment, hire manager and no employee to do the service 
+- Proving your Senior knowledge in a job interview with university skills using SOLID principles theory and a recursive function code challenge 
+- Spending time on resources that stakeholders don't care about
 
 ### Quality code doesn’t matter
 What does quality code brings to your health and actual life? More stress, more discussions with collegues to find the perfect code, and all that for what? Customers, Project Managers and everyone else than you does not care about that, with a chance to get complained for delivering or delaying the work.
