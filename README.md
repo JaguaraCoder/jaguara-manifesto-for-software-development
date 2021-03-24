@@ -16,6 +16,7 @@ The Jaguara has a peculiar lifestyle that could be summarized as:
 - Worried on moving tickets on the board just to show managers
 - Usually involved in team parties and events
 - Doesn't know what is delivery of value
+- I told to do that / I told that it would happen, are very common expressions
 
 ## Topics that surrounds a Jaguara's environment
 - [Quality code doesn’t matter](#quality-code-doesnt-matter)
