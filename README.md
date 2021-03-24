@@ -5,7 +5,7 @@ Jaguara Code Manifesto and how to not get frustated as a Software Developer
 The Jaguara Code Manifesto is an expressive document on topics that usually gets software developers and engineers frustated, or with managers decisions or with burocratic processes or some smart-ass collegue that believes that perfection is the deliverable value of a product, sometimes we just need an action and a step-ahead without thinking too much to get things done.
 
 ## Topics (sarcastically) self-explained
-- Quality code doesn’t matter
+- [Quality code doesn’t matter](#quality-code-doesnt-matter)
 - SPPaaP - Slider de Powerpoint As a Product
 - go live = datas aleatorias criadas por quem nao manja nada de desenvolvimento
 - Constant confusion and incompetence
