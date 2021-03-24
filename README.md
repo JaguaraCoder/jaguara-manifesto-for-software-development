@@ -32,7 +32,7 @@ The Jaguara has a peculiar lifestyle that could be summarized as:
 - Solving project delays and conflicts with team events
 - Testing is for weaks. Don't you thrust your own code?
 - desalignment as agile technique
-- Let's do what we do better - meetings
+- [Let's do what we do better - Meetings](#lets-do-what-we-do-better---meetings)
 - Solving project delays and conflicts with team events
 - Creating hidden problems to boost your success in future fixes 
 - Better done than perfect
