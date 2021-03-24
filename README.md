@@ -7,7 +7,12 @@ The Jaguara Code Manifesto is an expressive document on topics that usually gets
 ## Topics (sarcastically) self-explained
 - [Quality code doesn’t matter](#quality-code-doesnt-matter)
 - SPPaaP - Slider de Powerpoint As a Product
-- go live = datas aleatorias criadas por quem nao manja nada de desenvolvimento
+- Golive - Random release dates created by someone that doesn't know nothing about Software Development
+         * other phrases that a persons who creates the golive might say:
+           "It's just a button"
+           "It's our promise to deliver this feature" 
+           "We cannot reduce the scope of the project"
+           "We are an agile team"
 - Constant confusion and incompetence
 - Confused/excited
 - Solving project delays and conflicts with team events
