@@ -9,6 +9,14 @@ A jaguara is an expression to define someone that does or something that is conc
 
 Could be summarized as a combination of laziness and smartness(?) in a effort to avoid effort.
 
+#### Lifestyle
+The Jaguara coder has a peculiar lifestyle that could be summarized as:
+- Prefers meetings than work
+- First to complain, last to give a good solution
+- Worried on moving tickets on the board just to show managers
+- Usually involved in team parties and events
+- Doesn't know what is delivery of value
+
 ## Topics (sarcastically) self-explained
 - [Quality code doesn’t matter](#quality-code-doesnt-matter)
 - [SPPaaP - Slider de Powerpoint As a Product](#quality-code-doesnt-matter)
