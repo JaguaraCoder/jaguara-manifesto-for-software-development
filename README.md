@@ -1,8 +1,8 @@
-# jaguara-code-manifesto to Jaguara Code Standards (JCS)
-Jaguara Code Manifesto and how to get (or not) frustated as a Software Developer
+# Jaguara Standards For Software Development (JSSD)
+Jaguara Manifesto For Software Development and how to get (or not) frustated on a Software environment
 
 ## Main Purpose
-The Jaguara Code Manifesto is an expressive document on topics that usually gets software developers and engineers frustated, or with managers decisions or with burocratic processes or some smart-ass collegue that believes that perfection is the deliverable value of a product, sometimes we just need an action and a step-ahead without thinking too much to get things done.
+The JSSD Manifesto is an expressive document on topics that usually gets software developers, managers and engineers frustated, or with general decisions or with burocratic processes or some smart-ass collegue that believes that perfection is the deliverable value of a product, sometimes we just need an action and a step-ahead without thinking too much to get things done.
 
 ## The Jaguara Itself
 A jaguara is an expression to define someone that does or something that is conceived with minimum effort and usually without much planning nor thinking in the future people/products that may be affected by it.
@@ -10,7 +10,7 @@ A jaguara is an expression to define someone that does or something that is conc
 Could be summarized as a combination of laziness and smartness(?) in a effort to avoid effort.
 
 #### Lifestyle
-The Jaguara coder has a peculiar lifestyle that could be summarized as:
+The Jaguara has a peculiar lifestyle that could be summarized as:
 - Prefers meetings than work
 - First to complain, last to give a good solution
 - Worried on moving tickets on the board just to show managers
@@ -51,7 +51,7 @@ The Jaguara coder has a peculiar lifestyle that could be summarized as:
 - Spending time on resources that stakeholders don't care about
 
 ### Quality code doesn’t matter
-Maybe the first and most important topic on a Jaguara Coder environemnt.
+Maybe the first and most important topic on a Jaguara's environemnt.
 
 What does quality code brings to a Jaguara's health and actual life? More stress, more discussions with collegues to find the perfect code, and all that for what? Customers, Project Managers and everyone else than you does not care about that, with a chance to get complained for delivering or delaying the work.
 In these cases, applying the Jaguara Standards, do the job as confortable as you want, delivery in time, accept comments on git, fix when the criticals come.
