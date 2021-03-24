@@ -2,7 +2,7 @@
 Jaguara Manifesto For Software Development and how to get (or not) frustated on a Software environment
 
 ## Main Purpose
-The JSSD Manifesto is an expressive document on topics that usually gets software developers, managers and engineers frustated, or with general decisions or with burocratic processes or some smart-ass collegue that believes that perfection is the deliverable value of a product, sometimes we just need an action and a step-ahead without thinking too much to get things done.
+The JSSD Manifesto is an expressive document on topics that usually gets software developers, managers and engineers frustated, or with general decisions or with burocratic processes or some smart-ass collegue that believes that perfection is the deliverable value of a product. For a Jaguara what is needed is just an action and a step-ahead without thinking too much to get things done.
 
 ## The Jaguara Itself
 A jaguara is an expression to define someone that does or something that is conceived with minimum effort and usually without much planning nor thinking in the future people/products that may be affected by it.
