@@ -60,6 +60,7 @@ The Jaguara has a peculiar lifestyle that could be summarized as:
 - how to get investment, hire manager and no employee to do the service 
 - Proving your Senior knowledge in a job interview with university skills using SOLID principles theory and a recursive function code challenge 
 - Spending time on resources that stakeholders don't care about
+- How to create abstract estimation metrics
 
 ### Quality code doesn’t matter
 Maybe the first and most important topic on a Jaguara's environemnt.
