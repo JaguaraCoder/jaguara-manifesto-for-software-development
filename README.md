@@ -31,12 +31,7 @@ The Jaguara has a peculiar lifestyle that could be summarized as:
 ## Topics that surrounds a Jaguara's environment
 - [Quality code doesn’t matter](#quality-code-doesnt-matter)
 - [SPPaaP - Slider de Powerpoint As a Product](#quality-code-doesnt-matter)
-- Golive - Random release dates created by someone that doesn't know nothing about Software Development
-         * other phrases that a persons who creates the golive might say:
-           "It's just a button"
-           "It's our promise to deliver this feature" 
-           "We cannot reduce the scope of the project"
-           "We are an agile team"
+- [Go Live may depend](#go-live-may-depend)
 - Constant confusion and incompetence
 - Confused/excited
 - Solving project delays and conflicts with team events
@@ -77,3 +72,11 @@ Sometimes the company have many products as just presentation but in the end it 
 Meetings are a constant in the Jaguara's environment and it is desirable that meetings take most of the day. Meeting is a solution for everything that happens as for example:
 
 An issue on the software, Defining standards, Planning, Grooming, Pre-Grooming, Pre-planning, Summary of the sprint, Summary of the week, Summary of the month, Feedback to your team lead, Feedback for the company's manager, Alignment with the Product Owner, Asking a friend if he can help you in something very simple... and many more.  
+
+### Go Live May Depend
+Go live on a Jaguara's concept may depend on the stakeholders and PM view, as for example:
+- Random release dates created by someone that doesn't know nothing about Software Development
+- It's just a button
+- It's our promise to deliver this feature
+- We cannot reduce the scope of the project
+- We are an agile team
