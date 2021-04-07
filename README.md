@@ -56,6 +56,7 @@ The Jaguara has a peculiar lifestyle that could be summarized as:
 - Proving your Senior knowledge in a job interview with university skills using SOLID principles theory and a recursive function code challenge 
 - Spending time on resources that stakeholders don't care about
 - How to create abstract estimation metrics
+- Everybody wants to be a kind of Elon Musk using Wordpress
 - [Must believe that it will work](#must-believe-that-it-will-work)
 
 ### Quality code doesn’t matter
