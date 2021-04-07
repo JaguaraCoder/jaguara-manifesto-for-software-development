@@ -57,6 +57,7 @@ The Jaguara has a peculiar lifestyle that could be summarized as:
 - Spending time on resources that stakeholders don't care about
 - How to create abstract estimation metrics
 - Everybody wants to be a kind of Elon Musk using Wordpress
+- [Must believe that it will work](#must-believe-that-it-will-work)
 
 ### Quality code doesn’t matter
 Maybe the first and most important topic on a Jaguara's environemnt.
@@ -81,3 +82,6 @@ Go live on a Jaguara's concept may depend on the stakeholders and PM view, as fo
 - It's our promise to deliver this feature
 - We cannot reduce the scope of the project
 - We are an agile team
+
+### Must believe that it will work
+When uncertainties comes, the Jaguara Standards expects you to stringly believe that things will work. Don't be worried with details, if the servers can handle a certain amount of workload, or even if someone will find that small exception... Just Believe that it will work. 
