@@ -28,6 +28,9 @@ The Jaguara has a peculiar lifestyle that could be summarized as:
 - Doesn't know what is delivery of value
 - I told to do that / I told that it would happen, are very common expressions
 
+## Workflow - Jaguara vs Professional Standard
+![jaguara workflow chart](/jaguara-work-of-success.png)
+
 ## Topics that surrounds a Jaguara's environment
 - [Quality code doesn’t matter](#quality-code-doesnt-matter)
 - [SPPaaP - Slider de Powerpoint As a Product](#quality-code-doesnt-matter)
